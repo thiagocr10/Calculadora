@@ -1,0 +1,11 @@
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\brand\OneDrive\Área de Trabalho\Ter- Projeto Prático de Programação-Programação Visual. Prof Thiago Traue\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
